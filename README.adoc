@@ -1,4 +1,4 @@
-= Workshop
+= Fraud Workshop
 
 == Introduction
 
@@ -95,6 +95,10 @@ Connect with *PuTTY*:
 * link:https://www.cloudera.com/documentation.html[Cloudera Documentation]
 
 == Proceed to workshop step-by-step guide
+
+First, please donwload all files from this git repo by going to the top of the page and hit *code* green button and select *download as ZIP*. 
+
+And then navigate to this page: 
 
 * link:workshop_fraud.adoc[Credit Card Fraud workshop step-by-step guide]
 
