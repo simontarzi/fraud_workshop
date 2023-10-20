@@ -270,7 +270,7 @@ And modify all types to String type per column
 [source,sql]
 ----
 INSERT INTO default.customers
-SELECT * FROM default.hue__tmp_customers_temp
+SELECT * FROM default.customers_temp
 ----
 +
 and run 
