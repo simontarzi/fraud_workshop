@@ -1,5 +1,7 @@
 = Credit Card Fraud Detection workshop
 
+= Run this to prepare the full workshop
+MAPBOX_TOKEN=pk.eyJ1Ijoic2ltb250YXJ6aSIsImEiOiJjbGRibHZ6aGowMXZ5M3ZvNXM3a3ZqNXJqIn0.d9F4TuGY5pyMuLUvDk1G8g /tmp/resources/reset-to-lab.sh fraud 99
 
 You may have recently heard or read stories on health pass fraud , or carbon credit tax fraud (if you watched “Les Rois de l’arnaque” on Netflix ).Frauds always existed throughout human history and detecting fraudulent transactions in whatever the industries involved is one of the classic use cases but also one of the biggest challenges.
 
