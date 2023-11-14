@@ -15,7 +15,7 @@
 
 === Connecting to your cluster
 
-Please open this website: http://cdp.63.35.56.110.nip.io/
+Please open this website: http://cdp.XY.nip.io/
 
 You instructor will give access to a registration link where you can request a cluster. You should have 2 addresses for you one-node cluster: the public DNS name and the public IP address. With those addresses you can test the following connectivity to your cluster:
 
