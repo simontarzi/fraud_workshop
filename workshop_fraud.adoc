@@ -218,7 +218,7 @@ PRIMARY KEY (acc_id)
 )
 PARTITION BY HASH PARTITIONS 16
 STORED AS KUDU
-TBLPROPERTIES ('kudu.num_tablet_replicas' = '1')
+TBLPROPERTIES ('kudu.num_tablet_replicas' = '1');
 ----
 
 +
@@ -242,7 +242,7 @@ PRIMARY KEY (event_time, acc_id)
 )
 PARTITION BY HASH PARTITIONS 16
 STORED AS KUDU
-TBLPROPERTIES ('kudu.num_tablet_replicas' = '1')
+TBLPROPERTIES ('kudu.num_tablet_replicas' = '1');
 ----
 +
 
