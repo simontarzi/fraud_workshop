@@ -33,9 +33,7 @@ and run the following command:
 NOTE: The command below will undo everything done in the cluster in previous workshops.
 
 [source,shell]
-----
-MAPBOX_TOKEN=pk.eyJ1Ijoic2ltb250YXJ6aSIsImEiOiJjbGRibHZ6aGowMXZ5M3ZvNXM3a3ZqNXJqIn0.d9F4TuGY5pyMuLUvDk1G8g /tmp/resources/reset-to-lab.sh fraud 99
-----
+
 
 == The use case
 
